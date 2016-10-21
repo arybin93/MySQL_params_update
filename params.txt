@@ -1,0 +1,2 @@
+max_heap_table_size|536870912
+max_length_for_sort_data|2048
